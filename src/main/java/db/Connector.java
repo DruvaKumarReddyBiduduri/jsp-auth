@@ -11,7 +11,7 @@ public class Connector {
     public static Connection conn=null;
     private static final String url="jdbc:mysql://localhost:3306/auth";
     private static final String name="root";
-    private static final String password=".Adgjmptw5";
+    private static final String password="";
 
 
     public static Connection getConn(){
